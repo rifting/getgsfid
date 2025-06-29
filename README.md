@@ -6,4 +6,4 @@ A simple app to get the GSF ID (Google Services Framework ID). This is the "devi
 # Building
 Simply build in Android studio. This was built using Android Studio Ladybug Feature Drop 2024.2.2, but should also work for the more recent Android studio versions.
 
-Enjoy !
+Enjoy ! ( by the way the code for this app sucks haha )
